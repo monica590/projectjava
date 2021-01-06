@@ -1,7 +1,9 @@
 welcome to git demo text
 
-change:- to fix bug3
+change1:- to fix bug3
 
-change:- by team mate WI9 for login and added to colon 
+change2:- by team mate WI9 for login and added to colon 
 
-change:- to fix bug4 and added hyphen
+change3:- to fix bug4 and added hyphen
+
+change4:- by team mate to WI10 for login feature and added number
