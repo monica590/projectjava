@@ -1,3 +1,5 @@
 welcome to git demo text
 
-change to fix bug3
+change:- to fix bug3
+
+change:- by team mate WI9 for login and added to colon 
