@@ -1,3 +1,5 @@
 welcome to git demo text
 
-change to fix bug3
+change- to fix bug3
+
+change- to fix bug4 and added hyphen
