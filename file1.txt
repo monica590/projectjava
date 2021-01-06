@@ -1,6 +1,7 @@
 helo world 
 
 
+
 changed1:- added for WI1 with minor changes
 
 change2:- to fix bug1
@@ -11,4 +12,4 @@ change4:- to fix bug2
 
 change5:- by team mate for WI6 - login feature and added number
 
-
+change6:-> to work on CR1 and arrow sign
