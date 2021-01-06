@@ -1,7 +1,11 @@
 helo world 
 
-changed: added for WI1 with minor changes
+
+changed:- added for WI1 with minor changes
 
 change:- to fix bug1
 
 change:- by team mate for WI5l-logout feature and added colon
+
+change:- to fix bug2
+
